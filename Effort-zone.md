@@ -6,8 +6,11 @@ Data: Heart rate - HR granular data array
 
 Data Sources: Garmin
 
-## Frame dataset
+User: 40 years old
 
+Heart rate max: 180 bpm
+
+## Frame dataset
 
 ```Json
   "hr_granular_data_array": [
@@ -28,43 +31,43 @@ Data Sources: Garmin
       "datetime_string": "2024-02-05T08:57:31.000000+01:00"
     },
     {
-      "hr_bpm_int": 95,
+      "hr_bpm_int": 110,
       "datetime_string": "2024-02-05T08:58:32.000000+01:00"
     },
     {
-      "hr_bpm_int": 110,
+      "hr_bpm_int": 123,
       "datetime_string": "2024-02-05T08:59:33.000000+01:00"
     },
     {
-      "hr_bpm_int": 99,
+      "hr_bpm_int": 143,
       "datetime_string": "2024-02-05T09:00:34.000000+01:00"
     },
     {
-      "hr_bpm_int": 108,
+      "hr_bpm_int": 148,
       "datetime_string": "2024-02-05T09:01:35.000000+01:00"
     },
     {
-      "hr_bpm_int": 110,
+      "hr_bpm_int": 154,
       "datetime_string": "2024-02-05T09:02:36.000000+01:00"
     },
     {
-      "hr_bpm_int": 88,
+      "hr_bpm_int": 165,
       "datetime_string": "2024-02-05T09:03:37.000000+01:00"
     },
     {
-      "hr_bpm_int": 99,
+      "hr_bpm_int": 170,
       "datetime_string": "2024-02-05T09:04:38.000000+01:00"
     },
     {
-      "hr_bpm_int": 105,
+      "hr_bpm_int": 160,
       "datetime_string": "2024-02-05T09:05:39.000000+01:00"
     },
     {
-      "hr_bpm_int": 114,
+      "hr_bpm_int": 145,
       "datetime_string": "2024-02-05T09:06:40.000000+01:00"
     },
     {
-      "hr_bpm_int": 105,
+      "hr_bpm_int": 130,
       "datetime_string": "2024-02-05T09:07:41.000000+01:00"
     },
     {
@@ -108,7 +111,7 @@ Data Sources: Garmin
       "datetime_string": "2024-02-05T09:17:51.000000+01:00"
     },
     {
-      "hr_bpm_int": 117,
+      "hr_bpm_int": 102,
       "datetime_string": "2024-02-05T09:18:52.000000+01:00"
     }
   ],
