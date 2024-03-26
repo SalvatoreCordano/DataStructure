@@ -10,9 +10,11 @@ Data Sources: Fitbit
 
 Sleep time: 6 hours 16 mins
 
+Sleep cycles: 4 (There are four entrances and exits in REM sleep)
+
 ## Frame dataset
 
-
+![descarga (4)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/467dcf5f-0ccf-46d4-a5f5-4668935e3e52)
 
 ```Json
 {
