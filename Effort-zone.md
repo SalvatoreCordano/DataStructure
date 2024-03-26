@@ -12,7 +12,7 @@ Heart rate max: 180 bpm
 
 ## Frame dataset
 
-![descarga (2)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/e96c44d1-79f1-4133-a6ae-9046ec2b2bab)
+![descarga (3)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/dd8493a0-07c3-4f65-b018-548a01b366ff)
 
 ```Json
   "hr_granular_data_array": [
