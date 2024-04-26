@@ -1,4 +1,4 @@
-# Effort zone with data granular
+# Heart rate with data granular
 
 Dataset: Activity Event - Physical Health
 
@@ -8,7 +8,9 @@ Data Sources: Garmin
 
 User: 40 years old
 
-Heart rate max: 180 bpm
+Heart rate max: 160 bpm
+
+Heart rate average: 110 bpm
 
 ## Frame dataset
 
