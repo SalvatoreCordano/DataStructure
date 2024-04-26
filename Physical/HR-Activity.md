@@ -1,3 +1,20 @@
+# Effort zone with data granular
+
+Dataset: Activity Event - Physical Health
+
+Data: Heart rate - HR granular data array
+
+Data Sources: Garmin
+
+User: 40 years old
+
+Heart rate max: 180 bpm
+
+## Frame dataset
+
+
+
+```Json
                 },
                 "heart_rate": {
                   "hr_maximum_bpm_int": 160,
@@ -287,3 +304,4 @@
                   "hrv_sdnn_granular_data_array": [],
                   "hrv_rmssd_granular_data_array": []
                 },
+```
