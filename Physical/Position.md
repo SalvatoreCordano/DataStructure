@@ -1,8 +1,8 @@
-# Distance with data granular
+# Position with data granular
 
 Dataset: Activity Event - Physical Health
 
-Data: "distance"
+Data: "Position"
 
 Data Sources: Garmin
 
