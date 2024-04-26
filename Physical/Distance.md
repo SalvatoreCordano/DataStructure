@@ -936,19 +936,5 @@ Data Sources: Garmin
                 "datetime_string": "2024-03-13T20:16:16.000000-07:00"
               }
             ],
-            "floors_climbed_float": null,
-            "floors_climbed_granular_data_array": [],
-            "elevation_avg_altitude_meters_float": null,
-            "elevation_minimum_altitude_meters_float": null,
-            "elevation_maximum_altitude_meters_float": null,
-            "elevation_loss_actual_altitude_meters_float": 290.39,
-            "elevation_gain_actual_altitude_meters_float": 293.84,
-            "elevation_planned_gain_meters_float": null,
-            "elevation_granular_data_array": [],
-            "swimming_num_strokes_float": null,
-            "swimming_num_laps_int": null,
-            "swimming_pool_length_meters_float": null,
-            "swimming_total_distance_meters_float": null,
-            "swimming_distance_granular_data_array": []
           },
 ```
