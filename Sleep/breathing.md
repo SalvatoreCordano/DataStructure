@@ -8,6 +8,9 @@ Data Sources: Garmin
 
 ## Frame dataset
 
+![image](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/a73ed570-5627-45b4-9462-38b3b6239db3)
+
+
 ```Json
   "version": 2,
   "data_structure": "sleep_summary",
