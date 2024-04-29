@@ -12,52 +12,40 @@ Data Sources: Apple Health
 {
   "version": 2,
   "data_structure": "oxygenation_event",
-  "client_uuid": "c36e7d73-4458-4431-9ed2-c20febf10906",
-  "user_id": "65eb4db3281a306e7054b9fb",
+  "client_uuid": "b10d3087-66f2-4f0c-9ead-63ee38c4f5e6",
+  "user_id": "65eac303acf8df084a8a012c",
   "body_health": {
     "events": {
       "oxygenation_event": [
         {
           "metadata": {
-            "datetime_string": "2024-03-08T17:41:06.662915Z",
-            "user_id_string": "65eb4db3281a306e7054b9fb",
+            "datetime_string": "2024-03-04T20:05:09.961000+02:00",
+            "user_id_string": "65eac303acf8df084a8a012c",
             "sources_of_data_array": [
-              "Oura"
+              "Apple Health"
             ],
-            "was_the_user_under_physical_activity_bool": null
+            "was_the_user_under_physical_activity_bool": false
           },
           "oxygenation": {
-            "saturation_avg_percentage_int": 98,
-            "saturation_granular_data_array": [],
+            "saturation_avg_percentage_int": 93,
+            "saturation_granular_data_array": [
+              {
+                "saturation_percentage_int": 93,
+                "datetime_string": "2024-03-04 20:05:09.961000+02:00",
+                "interval_duration_seconds_float": null
+              },
+              {
+                "saturation_percentage_int": 93,
+                "datetime_string": "2024-03-04 20:35:10.837000+02:00",
+                "interval_duration_seconds_float": null
+              }
+            ],
             "vo2max_mL_per_min_per_kg_int": null,
             "vo2_granular_data_array": []
           },
-          "non_structured_data_array": [
-            {
-              "id": "af98c451-94b4-40d4-9e90-749bafb498dc",
-              "day": "2024-03-08",
-              "spo2_percentage": {
-                "average": 98.852
-              }
-            },
-            {
-              "id": "af98c451-94b4-40d4-9e90-749bafb498dc",
-              "day": "2024-03-08",
-              "spo2_percentage": {
-                "average": 98.852
-              }
-            },
-            {
-              "id": "af98c451-94b4-40d4-9e90-749bafb498dc",
-              "day": "2024-03-08",
-              "spo2_percentage": {
-                "average": 98.852
-              }
-            },
-            {
-              "id": "af98c451-94b4-40d4-9e90-749bafb498dc",
-              "day": "2024-03-08",
-              "spo2_percentage": {
-                "average": 98.852
-              }
+          "non_structured_data_array": []
+        }
+      ]
+    }
+  }
 ```
