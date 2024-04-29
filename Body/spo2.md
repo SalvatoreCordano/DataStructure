@@ -1,10 +1,10 @@
-# Distance with data granular
+# Oxygenation with data granular
 
-Dataset: Activity Event - Physical Health
+Dataset: Oxygenation Event - Body Health
 
-Data: "distance"
+Data: "Oxygenation"
 
-Data Sources: Garmin
+Data Sources: Apple Health
 
 ## Frame dataset
 
