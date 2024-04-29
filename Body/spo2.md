@@ -8,7 +8,7 @@ Data Sources: Apple Health
 
 ## Frame dataset
 
-![descarga (10)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/ae72c696-bca1-423c-a742-c4301cd59391)
+![descarga (11)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/ae3cd921-06e2-4b8e-8764-a9572a776208)
 
 ```Json
 {
