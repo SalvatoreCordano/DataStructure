@@ -1,4 +1,4 @@
-# Hydratation with data granular
+# Hydration with data granular
 
 Dataset: Hydratation Event - Physical Health
 
