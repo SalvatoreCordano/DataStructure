@@ -4,7 +4,7 @@ Dataset: Heart Rate Event - Body Health
 
 Data: "Heart Rate"
 
-Data Sources: Garmin
+Data Sources: Apple Health
 
 ## Frame dataset
 ![descarga (22)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/732aec9b-f1e5-44b6-9710-09dd7705999a)
