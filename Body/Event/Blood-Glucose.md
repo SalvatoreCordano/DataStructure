@@ -26,7 +26,7 @@ Data Sources: Dexcom
           "metadata": {
             "datetime_string": "2023-12-29T21:07:14.402999Z",
             "sources_of_data_array": [
-              "Polar"
+              "Dexcom"
             ],
             "user_id_string": "demoUserId",
             "was_the_user_under_physical_activity_bool": true
@@ -35,8 +35,44 @@ Data Sources: Dexcom
             "blood_glucose_avg_mg_per_dL_int": 0,
             "blood_glucose_granular_data_array": [
               {
-                "datetime_string": "2023-12-29T21:07:14.402999Z",
-                "blood_glucose_mg_per_dL_int": 0
+                "datetime_string": "2024-04-25T12:00:00.000Z",
+                "blood_glucose_mg_per_dL_int": 120
+              },
+              {
+                "datetime_string": "2024-04-25T12:30:00.000Z",
+                "blood_glucose_mg_per_dL_int": 130
+              },
+              {
+                "datetime_string": "2024-04-25T13:00:00.000Z",
+                "blood_glucose_mg_per_dL_int": 140
+              },
+              {
+                "datetime_string": "2024-04-25T13:30:00.000Z",
+                "blood_glucose_mg_per_dL_int": 160
+              },
+              {
+                "datetime_string": "2024-04-25T14:00:00.000Z",
+                "blood_glucose_mg_per_dL_int": 180
+              },
+              {
+                "datetime_string": "2024-04-25T14:30:00.000Z",
+                "blood_glucose_mg_per_dL_int": 200
+              },
+              {
+                "datetime_string": "2024-04-25T15:00:00.000Z",
+                "blood_glucose_mg_per_dL_int": 190
+              },
+              {
+                "datetime_string": "2024-04-25T15:30:00.000Z",
+                "blood_glucose_mg_per_dL_int": 180
+              },
+              {
+                "datetime_string": "2024-04-25T16:00:00.000Z",
+                "blood_glucose_mg_per_dL_int": 170
+              },
+              {
+                "datetime_string": "2024-04-25T16:30:00.000Z",
+                "blood_glucose_mg_per_dL_int": 160
               }
             ]
           }
