@@ -8,9 +8,9 @@ Data Sources: Fitbit
 
 ## Frame dataset
 
-![Uploading descarga (20).png…]()
+![descarga (20)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/7754480c-3458-40dd-95d8-878fbd26e495)
 
-![Uploading descarga (21).png…]()
+![descarga (21)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/75fdcbf5-42df-4b3c-b9ba-6a74cfed3444)
 
 
 ```Json
