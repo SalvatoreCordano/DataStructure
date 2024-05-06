@@ -8,7 +8,8 @@ Data Sources: Dexcom
 
 ## Frame dataset
 
-![Blood Glucose Plot](blood_glucose_plot.png)
+![descarga (23)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/f273c977-017c-474f-b294-c70e9c60517c)
+
 
 ```Json
 {
