@@ -1,4 +1,4 @@
-# oxygenation with data granular
+# Oxygenation with data granular
 
 Dataset: oxygenation Event - Physical Health
 
@@ -7,6 +7,9 @@ Data: "saturation_percentage_int" "vo2_mL_per_min_per_kg_int"
 Data Sources: polar
 
 ## Frame dataset
+
+![326365856-ae3cd921-06e2-4b8e-8764-a9572a776208](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/21bbb51e-3279-4a67-8645-681cd10e0ddc)
+
 
 ```Json
 {
