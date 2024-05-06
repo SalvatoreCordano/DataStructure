@@ -8,6 +8,9 @@ Data Sources: Garmin
 
 ## Frame dataset
 
+![descarga (24)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/7f42dfee-f965-4b11-ac1f-2b5e60e79395)
+
+
 ```Json
 {
   "client_uuid": "demoClientUUID",
