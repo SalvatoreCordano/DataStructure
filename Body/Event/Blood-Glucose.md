@@ -8,6 +8,8 @@ Data Sources: Dexcom
 
 ## Frame dataset
 
+![Blood Glucose Plot](blood_glucose_plot.png)
+
 ```Json
 {
   "client_uuid": "demoClientUUID",
