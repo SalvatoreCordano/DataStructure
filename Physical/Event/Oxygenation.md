@@ -1,4 +1,4 @@
-![descarga (28)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/6cc1b9f8-a4dc-4646-928c-ab94395e2d4d)![descarga (27)](https://github.com/SalvatoreCordano/DataStructure/assets/147050219/92556a7d-1792-44e8-abff-3146178b1fd1)# Oxygenation with data granular
+# Oxygenation with data granular
 
 Dataset: Oxygenation Event - Physical Health
 
