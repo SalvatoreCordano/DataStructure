@@ -1,8 +1,9 @@
-# weight with data granular
+# Weight & BMI with data granular
 
-Dataset: Weight - Body Summary - Body Health
+Dataset: Weight & BMI - Body Summary - Body Health
 
-Data: "distance"
+Data: "weight_kg_float"
+      "bmi_float"
 
 Data Sources: Fitbit
 
